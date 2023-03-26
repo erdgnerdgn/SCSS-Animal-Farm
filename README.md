@@ -7,4 +7,4 @@ HTML5, CSS3, SCSS
 
 <h2>Gif added</h2>
 
-![](Animal Farm.gif)
+![](Animal.gif)
